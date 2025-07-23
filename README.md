@@ -1,29 +1,24 @@
 # portfolio
-# 👋 Dumilani Konyani
+# 🌐 Dumilani's Landing Page
 
-Hey there! I'm Dumilani — a curious tech explorer from Malawi 🇲🇼  
-I enjoy helping people fix tech issues, exploring new tools, and experimenting with code (even when I don’t call myself a full-on coder yet).
+Hi! This is a simple animated personal landing page to showcase a bit of me — my interests, quirks, and personality.
 
----
+## 💡 Features
 
-## 🧠 What I’m Into
-- 🖥️ Tech support & systems
-- 💻 Light coding (HTML, CSS, a bit of Python)
-- 🎶 French music & culture
-- 🌶️ Cooking & spicy experiments (ask about my homemade chilli)
-- 🌍 Exploring new places
-- 😴 Taking the perfect nap 😄
+- Typing intro animation
+- Scroll-triggered fade-ins
+- Clean responsive layout
+- Built with HTML, CSS & JavaScript
 
----
+## 📦 How to Run
 
-## 🚀 What I’m Working On
-- Building small fun projects to learn
-- Creating a personal landing page (like this one!)
-- Learning to push code confidently on GitHub
+1. Clone this repo
+2. Open `index.html` in your browser
+
+## 🎯 Goals
+
+Just a fun way to re-explore my creative side and maybe add more later like projects, contact, blog, etc.
 
 ---
 
-## 📬 Connect With Me
-[My GitHub](https://github.com/DumilaniKonyani)
-
-_(More links and contact info coming soon!)_
+Made with ❤️ by Dumilani
