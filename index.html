@@ -3,64 +3,22 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Dumilani Konyani</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f3f4f6;
-      color: #1f2937;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      text-align: center;
-    }
-    h1 {
-      font-size: 3em;
-      color: #111827;
-    }
-    p {
-      max-width: 600px;
-      line-height: 1.6;
-      font-size: 1.2em;
-    }
-    .tags {
-      margin: 1em 0;
-    }
-    .tag {
-      display: inline-block;
-      background: #e5e7eb;
-      color: #111827;
-      border-radius: 999px;
-      padding: 0.3em 1em;
-      margin: 0.3em;
-      font-size: 0.9em;
-    }
-    a {
-      text-decoration: none;
-      color: #2563eb;
-      font-weight: bold;
-    }
-  </style>
+  <title>Dumilani | Welcome</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Salut, je suis Dumilani 👋</h1>
-  <p>
-    I love helping people with tech, exploring new places, napping, and French music.  
-    Currently finding my rhythm in life, one small project at a time.
-  </p>
-  <div class="tags">
-    <span class="tag">#TechHelper</span>
-    <span class="tag">#FrenchLearner</span>
-    <span class="tag">#Explorer</span>
-    <span class="tag">#CreativeAtHeart</span>
+  <div class="container">
+    <h1 id="typed-text"></h1>
+    <p class="fade-in">I love tech, French music, and helping people figure things out.</p>
+    <a href="#about" class="btn fade-in">Learn more</a>
   </div>
-  <p>
-    Let’s connect:  
-    <a href="https://github.com/dumilanikonyani" target="_blank">GitHub</a>
-  </p>
+
+  <section id="about" class="fade-in-section">
+    <h2>About Me</h2>
+    <p>I explore new places, fix tech, and sometimes bake a killer chilli sauce.</p>
+  </section>
+
+  <script src="script.js"></script>
 </body>
 </html>
+
